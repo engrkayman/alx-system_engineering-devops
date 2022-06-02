@@ -1,3 +1,2 @@
 #!/bin/bash
-printf '%x\n' $DECIMAL
-chmod u+x 100-decimal_to_hexadecimal
+printf '%x\n' $DECIMA
